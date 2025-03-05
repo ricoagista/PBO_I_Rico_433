@@ -37,7 +37,7 @@ public class Main {
 
                 if (nama.equals(namaMahasiswaValid) && nim.equals(nimMahasiswaValid)) {
                     System.out.println("Login Mahasiswa berhasil!");
-                    System.out.println("Nama: " + nama);
+                    System.out.println("Nama: " + nama); 
                     System.out.println("NIM: " + nim);
                     break;
                 } else {
