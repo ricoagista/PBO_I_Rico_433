@@ -3,7 +3,7 @@ public class Main {
         Hewan hewan1 = new Hewan();
         hewan1.nama = "Kucing";
         hewan1.jenis = "Mamalia";
-        hewan1.suara = "Nyann~~";
+        hewan1.suara = "RAWR!!!";
 
         Hewan hewan2 = new Hewan();
         hewan2.nama = "Anjing";

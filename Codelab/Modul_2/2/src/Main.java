@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        RekeningBank rekening1 = new RekeningBank("202310370311129", "Maharani", 500000.0);
-        RekeningBank rekening2 = new RekeningBank("202310370311307", "Amelia", 1000000.0);
+        RekeningBank rekening1 = new RekeningBank("202410370110433", "Ocir", 900000.0);
+        RekeningBank rekening2 = new RekeningBank("202410370110999", "Nasi Goreng", 500000.0);
 
         rekening1.tampilkanInfo();
         rekening2.tampilkanInfo();
