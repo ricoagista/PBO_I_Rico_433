@@ -1,7 +1,7 @@
 public class User {
     private String nama, Password;
 
-    User(String nama, String Password){
+    User(String nama, String Password) {
         this.nama = nama;
         this.Password = Password;
     }
@@ -22,13 +22,11 @@ public class User {
         return Password;
     }
 
-
-    public boolean login(String InputNama, String InputPaswwrod){
-        return (InputNama.equals(nama) && InputPaswwrod.equals(Password));
+    public boolean login(String InputNama, String InputPassword) {
+        return (InputNama.equals(nama) && InputPassword.equals(Password));
     }
 
-    public void displayInfo (){
-        System.out.println("sukses is not yetn");
+    public void displayInfo() {
+        System.out.println("sukses .....");
     }
-
 }
