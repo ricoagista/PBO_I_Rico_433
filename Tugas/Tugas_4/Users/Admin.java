@@ -1,6 +1,6 @@
-package Modul_4_.Organiztion;
+package Praktikum.Users;
 
-import Modul_4_.Actions.AdminAction;
+import Praktikum.Actions.AdminAction;
 
 public class Admin extends User implements AdminAction{
 

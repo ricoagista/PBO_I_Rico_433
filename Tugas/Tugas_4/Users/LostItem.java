@@ -1,4 +1,4 @@
-package Modul_4_.Organiztion;
+package Praktikum.Users;
 
 public class LostItem {
     private int idLostitem;

@@ -1,6 +1,6 @@
-package Modul_4_.Organiztion;
+package Praktikum.Users;
 
-import Modul_4_.Actions.MhsAction;
+import Praktikum.Actions.MhsAction;
 
 import java.util.Scanner;
 import java.util.logging.Level;

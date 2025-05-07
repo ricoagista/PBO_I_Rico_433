@@ -1,6 +1,6 @@
-package Modul_4_.Main;
+package Praktikum.Main;
 
-import Modul_4_.Organiztion.*;
+import Praktikum.Users.*;
 import java.util.Scanner;
 
 public class LoginSystem {
@@ -22,7 +22,7 @@ public class LoginSystem {
     }
 
     private static void MenuApp(){
-        System.out.println("\nWelcome\n ");
+        System.out.println("\nSelamat Datang\n ");
         System.out.println("1. Admin");
         System.out.println("2. Mahasiswa");
         System.out.println("3. Keluar");
@@ -47,7 +47,7 @@ public class LoginSystem {
             String Username = input.nextLine();
             System.out.print("Masukkan Password Mahasiswa : ");
             String Password = input.nextLine();
-            if (new Modul_4_.Organiztion.Mahasiswa().Login(Username,Password)) {
+            if (new Praktikum.Users.Mahasiswa().Login(Username,Password)) {
                 System.out.println("\nSelamat Anda Berhasil Login!!!\n");
                 logintoMahasiswa();
                 Logged = true;
@@ -70,7 +70,7 @@ public class LoginSystem {
             String Username = input.nextLine();
             System.out.print("Masukkan Password Admin : ");
             String Password = input.nextLine();
-            if (new Modul_4_.Organiztion.Admin().Login(Username, Password)) {
+            if (new Praktikum.Users.Admin().Login(Username, Password)) {
                 System.out.println("\nSelamat Anda Berhasil Login!!!\n");
                 logintoAdmin();
                 Logged = true;
@@ -88,7 +88,7 @@ public class LoginSystem {
 
     private static void logintoMahasiswa(){
         int Choice;
-        Mahasiswa mahasiswa = new Modul_4_.Organiztion.Mahasiswa();
+        Mahasiswa mahasiswa = new Praktikum.Users.Mahasiswa();
         while (true) {
             mahasiswa.DisplayAppMenu();
             Choice = input.nextInt();
@@ -113,7 +113,7 @@ public class LoginSystem {
     private static void logintoAdmin(){
 
         int Choice;
-        Admin admin = new Modul_4_.Organiztion.Admin();
+        Admin admin = new Praktikum.Users.Admin();
 
         while (true) {
             admin.DisplayAppMenu();

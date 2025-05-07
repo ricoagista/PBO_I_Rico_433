@@ -1,4 +1,4 @@
-package Modul_4_.Actions;
+package Praktikum.Actions;
 
 public interface AdminAction {
     void ManageItems();
