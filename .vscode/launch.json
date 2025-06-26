@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "com.belajar/com.belajar.MainApp",
+            "projectName": "Extra_Task"
+        },
+        {
+            "type": "java",
+            "name": "StudyMonitorApp",
+            "request": "launch",
+            "mainClass": "main.java.com.example.extra_task.gui.StudyMonitorApp",
+            "projectName": "PBO_I_RicoShandikaJovialAgista_433_999d87f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudyMonitorApp",
+            "request": "launch",
+            "mainClass": "com.example.extra_task.gui.StudyMonitorApp",
+            "projectName": "extra_task",
+            "vmArgs": "--module-path \"C:\\Users\\Rico\\AppData\\Local\\Programs\\JavaFX\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

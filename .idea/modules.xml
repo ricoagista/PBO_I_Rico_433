@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_2/1/1.iml" filepath="$PROJECT_DIR$/Codelab/Modul_2/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_2/2/2.iml" filepath="$PROJECT_DIR$/Codelab/Modul_2/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Bayam/Bayam.iml" filepath="$PROJECT_DIR$/Tugas/Bayam/Bayam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Lynx/Lynx.iml" filepath="$PROJECT_DIR$/Tugas/Lynx/Lynx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_1/Modul_1.iml" filepath="$PROJECT_DIR$/Codelab/Modul_1/Modul_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_4/src/Modul_4.iml" filepath="$PROJECT_DIR$/Codelab/Modul_4/src/Modul_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_5/Modul_5.iml" filepath="$PROJECT_DIR$/Codelab/Modul_5/Modul_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_4/Modul_6.iml" filepath="$PROJECT_DIR$/Codelab/Modul_4/Modul_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Monyet/Monyet.iml" filepath="$PROJECT_DIR$/Tugas/Monyet/Monyet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PBO_I_RicoShandikaJovialAgista_433.iml" filepath="$PROJECT_DIR$/.idea/PBO_I_RicoShandikaJovialAgista_433.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul_2/Test/Test.iml" filepath="$PROJECT_DIR$/Codelab/Modul_2/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas.iml" filepath="$PROJECT_DIR$/Tugas/Tugas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas_1/Tugas_1.iml" filepath="$PROJECT_DIR$/Tugas/Tugas_1/Tugas_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas_2/Tugas_2.iml" filepath="$PROJECT_DIR$/Tugas/Tugas_2/Tugas_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas_3/Tugas_3.iml" filepath="$PROJECT_DIR$/Tugas/Tugas_3/Tugas_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas_5/Tugas_5.iml" filepath="$PROJECT_DIR$/Tugas/Tugas_5/Tugas_5.iml" />
+    </modules>
+  </component>
+</project>
